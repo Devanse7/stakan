@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.vite/
+*.log
+.chrome-*/
+.chrome-*/
+.chrome-*
+artifacts-*.png
+MEMORY.md
+memory/
